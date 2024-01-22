@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          In 2013 I was at the peak of my teaching career and living in China. I adopted and used Bitcoin to send cross-border payments home and became a long term holder and miner in digital assets. After getting cancer and having to return home, I also had to give up teaching. I earned my MBA and doubled down on crypto finance.  I used to be a web developer as well, so I modernized my tech stack, learned Solidity and eventually ended-up at Coinbase where I performed security assessments for blockchains and smart contracts. Now I'm 100% healthy again and am continuing my journey as a web3 founder and builder working on projects that are meaningful to me. My areas of expertise include smart contract dev, nfts, ai prompting, design, and digital art. 
+          In 2013 I was at the peak of my teaching career and living in China. I adopted and used Bitcoin to send cross-border payments home and became a long term holder and miner in digital assets. After getting cancer and having to return home, I also had to give up teaching. I earned my MBA and doubled down on crypto finance.  I used to be a web developer as well, so I modernized my tech stack, learned Solidity and eventually ended-up at Coinbase where I performed security assessments for blockchains and smart contracts. Now I am 100% healthy again and am continuing my journey as a web3 founder and builder working on projects that are meaningful to me. My areas of expertise include smart contract dev, nfts, ai prompting, design, and digital art. 
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
