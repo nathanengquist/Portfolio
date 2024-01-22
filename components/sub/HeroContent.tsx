@@ -46,8 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          In 2013 I began the most amazing journey as an early adopter, investor, and miner in digital assets during the height of my former career as a high school teacher. After getting cancer and having to return home, I also had to give up teaching. I went back for another Master's (MBA) and doubled down on crypto finance.  I used to be a web developer so I modernized my tech stack, learned Solidity and performed security assessments for blockchains and smart contracts at Coinbase. Now I'm 100% healthy again and a web3 founder and builder with industry experience in blockchain security. My areas of expertise include smart contract dev, nfts, ai prompting, design, and digital art. 
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
